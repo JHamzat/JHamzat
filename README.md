@@ -4,8 +4,8 @@
 ![typing penguin](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2NqeGZxNW9kd2t2ZWlyaXE4dzJheDMwMHByc2c2ZmhuZHRvMGxveSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1vlBgKjXEz1jTtsuiH/giphy.gif)
 
 ### 🔭 I’m currently working on a exercise-focused project, check it out [here](https://www.example.com/my%20great%20page):
-### 🌱 I’m currently learning how to build full-stack applications in Java
-### 👯 I’m looking to collaborate on anything really, eager to develop and learn.
+### 🌱 I’m currently learning how to build web applications in Java with Spring Boot
+### 👯 I’m looking to collaborate on anything really, eager to develop and learn
 ### 📫 How to reach me: You can contact me via [Email](mailto:joshuahamzat@gmail.com) or [LinkedIn](https://www.linkedin.com/in/joshua-hamzat/)
 
 
